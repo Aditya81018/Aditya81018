@@ -21,13 +21,10 @@ I am currently in second year of CSE from SNU Kolkata, India. I love to explore 
 - Networking and collaborating with developers
 ---
 
-## 📫 Connect
-[![GitHub](https://img.shields.io/badge/GitHub-@Aditya81018-181717?style=for-the-badge&logo=github)](https://github.com/Aditya81018)
+## 📫 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@aditya81018-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya81018)
-
-[![Email](https://img.shields.io/badge/Email-aditya.jaiswal.81018%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.jaiswal.81018@gmail.com)
-
-[![Discord](https://img.shields.io/badge/Discord-@aditya81018-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1333276216022667274)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-aditya81018.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya81018.vercel.app)
+💻 **GitHub** • https://github.com/Aditya81018  
+💼 **LinkedIn** • https://www.linkedin.com/in/aditya81018  
+🌐 **Portfolio** • https://aditya81018.vercel.app  
+📧 **Email** • aditya.jaiswal.81018@gmail.com  
+💬 **Discord** • @aditya81018
