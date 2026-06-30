@@ -28,6 +28,6 @@ I am currently in second year of CSE from SNU Kolkata, India. I love to explore 
 
 [![Email](https://img.shields.io/badge/Email-aditya.jaiswal.81018%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.jaiswal.81018@gmail.com)
 
-[![Discord](https://img.shields.io/badge/Discord-@aditya81018-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/aditya81018)
+[![Discord](https://img.shields.io/badge/Discord-@aditya81018-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1333276216022667274)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aditya81018.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya81018.vercel.app)
