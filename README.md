@@ -1,5 +1,5 @@
 # Hi, I'm Aditya 👋
-I am currently in second year of CSE from SNU Kolkata, India. I love to explore different aspects of tech and I have worked on several types of projects. I am currently best at Fullstack Web Development but I wish to pursue Robotics in long term and my other interests are Games Dev, Simulations, IoT Projects and Designing.
+I am currently in my second year of CSE at SNU Kolkata, India. I love exploring different aspects of technology, and I have worked on several types of projects. I am currently best in full-stack web development, but I wish to pursue robotics in the long term. I am also interested in game development, simulations, IoT projects, and designing.
 
 ---
 ## 🚀 Tech Stack
